@@ -1,0 +1,67 @@
+<html>
+
+<head>
+    <link type="text/css" rel="stylesheet" href="https://www.dropbox.com/s/trsldt0me90jzs8/resume.css" />
+    <title></title>
+</head>
+
+<body>
+    <div id="header">
+        <p id="name">Navin Kannan</p>
+        <a href="mailto:navin13k@gmail.com" target="_blank">
+            <p id="email">navin13k@gmail.com</p>
+        </a>
+    </div>
+    <div class="left">
+    </div>
+    <div class="right">
+        <h3>CV Highlights</h3>
+        <p>
+            <ul>
+                <li>Currently going through full stck web development in GUVI</li>
+                <li>Learning basic Python, JavaScript, HTML, CSS in GUVI.</li>
+                <li>Good Communication Skills, Presentation Skills, attitude towards leadership, authorisation and delegation, conflict resolution and negotiation and a very good team worker.</li>
+            </ul>
+        </p>
+        <h3>Educational Qualifications</h3>
+        <table>
+            <tr id="heading">
+                <td>Qualification</td>
+                <td>Board</td>
+                <td>Percentage / CGPA</td>
+                <td>Year</td>
+            </tr>
+            <tr>
+                <td>10th grade</td>
+                <td>DAV gopalapuram chennai</td>
+                <td>7.2 </td>
+                <td>2016</td>
+            </tr>
+            <tr>
+                <td>12th grade (Science Stream)</td>
+                <td>ST' Joseph school</td>
+                <td>62%</td>
+                <td>2019</td>
+            </tr>
+            <tr>
+                <td>B.E Computer science</td>
+                <td>SRM Easwari engineering college chennai</td>
+                <td>on procees</td>
+                <td>2023</td>
+            </tr </table>
+
+            </p>
+            <h3>Personal Information:</h3>
+            <p>
+                <ul>
+                    <li>
+                        A young, determined hard and smart working person. I believe in task based roles and complete ownership of work.
+                        <li>
+                            <span id="course-name">Languages Known:</span>English and Tamil.</li>
+                        <li>
+                            <span id="course-name">Hobbies:</span>I love watch series and movies in netflix playing footbal, listening to the music suffering in the internet etc.</li>
+                </ul>
+            </p>
+</body>
+
+</html>
