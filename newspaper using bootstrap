@@ -1,0 +1,171 @@
+<html>
+
+<head>
+    <title>
+        News Paper Using Bootstrap
+    </title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+
+<body>
+    <ul class="nav nav-tabs fixed-top" style="background-color: rgb(238, 76, 76);">
+        <li class="nav-item">
+            <a class="nav-link" href="index.html">Page1</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link active" href="#">Page2</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="index3.html">Page3</a>
+        </li>
+    </ul>
+    <div style="padding:50px 30px 50px 30px;">
+        <div class="row">
+            <div class="col-6" style="text-align: left;">
+                <b> wakanda forever_/\_ </b>
+            </div>
+            <div class="col-6" style="text-align: right;">
+                <b>Lorem Ipsum jest tekstem</b>
+            </div>
+        </div>
+        <hr style="height:2px;border-width:0;color: black;background-color:black">
+        <div class="d-flex justify-content-around">
+            Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." "Da ist niemand der den Schmerz an sich liebt, der danach sucht und ihn haben möchte, einfach weil es Schmerz ist..."
+        </div>
+        <hr style="height:2px;border-width:0;color: black;background-color:black">
+        <div class="row">
+            <div class="col-8" style="text-align: left;">
+                <p class="font-weight-bolder d-flex justify-content-around" style="font-size: 25px;">
+                    Sektion 1.10.33 des "de Finibus Bonorum et Malorum", geschrieben von Cicero, 45 v. Chr.
+                </p>
+                <div class="row">
+                    <div class="col-6" style="padding-right: 10px;">
+                        <p class="text-justify">
+                            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia
+                            animi, id est laborum et dolorum fuga.
+                        </p>
+                        <p class="text-justify">
+                            Cras sit amet magna vel mauris pharetra dictum et nec tellus. Integer sit amet fringilla leo. Phasellus quis mi laoreet, rutrum odio vel, vestibulum mi. Sed sed erat in orci efficitur iaculis. In euismod, justo non rhoncus pellentesque, nisl dolor commodo
+                            mi, in luctus lectus felis sit amet neque.
+                        </p>
+                        <p class="text-justify">
+                            Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus
+                            autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus
+                            maiores alias consequatur aut perferendis doloribus asperiores repellat."
+                        </p>
+                    </div>
+                    <div class="col-6" style="padding-left: 10px;">
+                        <p class="text-justify">
+                            Maecenas feugiat eget augue in malesuada. Suspendisse varius vulputate arcu ac volutpat. Donec eu dictum ante. Duis aliquam faucibus ligula, nec rhoncus libero aliquet vitae.
+                        </p>
+                        <p class="text-justify">
+                            Cras sit amet magna vel mauris pharetra dictum et nec tellus. Integer sit amet fringilla leo. Phasellus quis mi laoreet, rutrum odio vel, vestibulum mi. Sed sed erat in orci efficitur iaculis. In euismod, justo non rhoncus pellentesque, nisl dolor commodo
+                            mi, in luctus lectus felis sit amet neque.
+                        </p>
+                        <p class="text-justify">
+                            Curabitur sit amet ligula ac lectus eleifend ultrices. Vivamus vel accumsan nibh. Proin cursus eros id orci hendrerit, vitae venenatis libero efficitur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus
+                            finibus elementum tempus. Pellentesque ut mi fermentum, auctor diam vel, viverra dui.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4" style="position: relative; padding-left: 20px; padding-top: 10px; padding-bottom: 20px;">
+                <div style="height: 100%; background-color: rgb(199, 195, 195); position: relative;">
+                    <div style="position:absolute; bottom: 10px; right: 10px; width: 95%; text-align: right;">
+                        <span style=" display: inline-block;text-align: center;width: 50px; height: 50px; background-color: black; color: white; border-radius: 50%; padding: 10px;">
+                                <span class="font-weight-bold" style="font-size: 10; text-align: center;"> Page</span>
+                        <span class="font-weight-bold" style="font-size: 10; text-align: center;">25</span>
+                        </span><br>
+
+                        <span style=" display: inline-block;text-align: right; color: white;">
+                                    Ma ono korzenie w klasycznej łacińskiej literaturze z 45 roku przed Chrystusem, czyli ponad 2000 lat temu! Richard McClintock, wykładowca łaciny na uniwersytecie Hampden-Sydney w Virginii, przyjrzał się uważniej jednemu z najbardziej niejasnych słów.
+                                </span>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr style="height:2px;border-width:0;color: black;background-color:black">
+        <p class="font-weight-bolder text-justify" style="font-size: 25px;">
+            Odsek 1.10.32 z textu "De finibus bonorum et malorum", ktorý napísal Cicero v roku 45 pred n.l.
+        </p>
+        <div class="row" style="margin-top: -20px;">
+            <div class="col-4" style="padding-right: 10px; padding-top: 10px;">
+                <p class="text-justify">
+                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+                    sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius
+                    modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure
+                    reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+                </p>
+            </div>
+            <div class="col-8" style="padding-left: 10px; padding-bottom: 20px;">
+                <div style="height: 100%; background-color: rgb(199, 195, 195); position: relative;">
+                    <span class="font-weight-bold font-italic" style="background-color: brown; color: white; padding: 5px; position: absolute; top: -15px;">
+                            25 12 34
+                        </span>
+                    <span style=" display: inline-block;text-align: center;width: 50px; height: 50px; background-color: black; color: white; border-radius: 50%; padding: 10px; position: absolute; bottom: 10px; right: 10px;">
+                            <span class="font-weight-bold" style="font-size: 10; text-align: center;"> Page</span>
+                    <span class="font-weight-bold" style="font-size: 10; text-align: center;">25</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <hr style="height:2px;border-width:0;color: black;background-color:black">
+        <div class="row">
+            <div class="col-12">
+                <p class="font-weight-bolder text-justify" style="font-size: 25px;">
+                    Odsek 1.10.33 z textu "De finibus bonorum et malorum", ktorý napísal Cicero v roku 45 pred n.l.
+                </p>
+            </div>
+            <div class="col-4" style="padding-right: 10px; margin-top: -30px; padding-top: 30px;">
+                <span class="font-weight-bold font-italic" style="background-color: brown; color: white; padding: 5px;">
+                        Today 01
+                    </span>
+                <br>
+                <br>
+                <p class="text-justify">
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+                    in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                </p>
+            </div>
+            <div class="col-4" style="padding-left: 10px; margin-top: -50px;">
+                <hr style="height:2px;border-width:0;color: black;background-color:black">
+                <div style="padding: 0px 40px 0px 40px;">
+                    <p class="text-justify font-weight-bold" style="font-size: 25; color: brown; text-align-last: justify;">
+                        Maecenas feugiat eget augue in malesuada.
+                    </p>
+                </div>
+                <hr style="height:2px;border-width:0;color: black;background-color:black">
+                <p class="text-justify">
+                    Hoc film valde ab incluto inscripsit 'Padaiyappa ". Etiam fortissimis inimicus est Dei invenies quia hostem habetis non. Ipsum una ac inspiret ei primus est constitutus sum placuit ad induendum
+                </p>
+            </div>
+            <div class="col-4" style="position: relative; padding-left: 20px; padding-top: 10px; padding-bottom: 20px; margin-top: -50px;">
+                <div style="height: 100%; background-color: rgb(199, 195, 195); position: relative;">
+                    <div style="position:absolute; bottom: 10px; right: 10px; width: 95%; text-align: right;">
+                        <span style=" display: inline-block;text-align: center;width: 50px; height: 50px; background-color: black; color: white; border-radius: 50%; padding: 10px;">
+                                <span class="font-weight-bold" style="font-size: 10; text-align: center;"> Page</span>
+                        <span class="font-weight-bold" style="font-size: 10; text-align: center;">25</span>
+                        </span>
+                        <br>
+                        <span style=" display: inline-block;text-align: right; color: white;">
+                                Ma ono korzenie w klasycznej łacińskiej literaturze z 45 roku przed Chrystusem, czyli ponad 2000 lat.
+                            </span>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr style="height:2px;border-width:0;color: black;background-color:black">
+        <div class="row">
+            <div class="col-6" style="text-align: left;">
+                <b>Maecenas feugiat eget</b>
+            </div>
+            <div class="col-6" style="text-align: right;">
+                <b>Phasellus quis mi laoreet</b>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
